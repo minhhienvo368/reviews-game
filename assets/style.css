@@ -1,0 +1,70 @@
+.content{
+ width: 100%;
+ background-color: azure;
+ }
+
+.right_content{
+ width:85%;
+ position:absolute;
+ top: 0;
+ right: 0; 
+ }
+
+ .top_metrics {
+background: #003a5f;
+height: 200px;
+width:100%;
+position:relative;
+top: 0;
+right: 0;
+}
+
+.left_menu {
+ width: 18%;
+ position: absolute;
+ font-size: 40px;
+ font-family: monospace, sans-serif;
+ color: aliceblue;
+ text-align: center;
+ top: 0;
+ left: 0;
+ padding-top: 15px;
+ height: 500vh;
+ z-index: 999;
+ background: #6d8eaf;
+}
+
+.title {
+font-family: Andale Mono, monospace;
+}
+
+.imgs {
+    border: 1px solid #ddd;
+    padding: 25px;
+    border-radius: 4px;
+    width: auto;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imgs:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.games_list{
+font-size: 14px;
+font-family: monospace;
+font-weight: bold;
+padding-top: 25px;
+color: black;
+}
+
+.games_table{
+    font-size: 16px;
+    font-family: monospace;
+    padding-top: 25px;
+    color: black;
+    text-align: center;
+    padding-left: 25px;
+    }
