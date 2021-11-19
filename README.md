@@ -1,6 +1,6 @@
 ## Project: Deploy a web app game reviews
 
-This project is to practice on deployment. We got the data from customer in json format. We need to process the data by using some analytical methods for data visualization, model deployment and deliver the insights about how games got reviews. 
+This project is to practice on deployment. We got the data from customer in json format. We need to tranfer the data into Sql, and using some analytical methods for data visualization, then using Heroku for as a deployed method. The user interface should deliver the insights, overviews about how games got reviews. 
 
 ### Requirement:
   + Use Streamlit or Heroku to deloy your app
