@@ -8,7 +8,14 @@ This project is to practice on deployment. We got the data from customer in json
 ### Installation
   + This app was deployed by Heroku server using Flash, so we just go directly to the website
 
+
+
+### Some infor about database
+
+<img src="/tree/main/assets/list_top.png" width="128"/>
+
 ### Final product:
 Web link: https://steam-deployment.herokuapp.com/
+
 
 ### Our team members: Graciela, Minh Hien, Jayesh, and Jose
