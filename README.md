@@ -12,7 +12,13 @@ This project is to practice on deployment. We got the data from customer in json
 
 ### Some infor about database
 
+
+1. Top of games get highest score reviews
 <img src="/assets/list_top.png" width="300"/>
+
+2. Free vs Paid games in the database
+<img src="/assets/paid_nopaid.png" width="300"/>
+
 
 ### Final product:
 Web link: https://steam-deployment.herokuapp.com/
